@@ -1,10 +1,10 @@
 {
   "portrait": "content/photos/portrait_template.png",
   "name": "Musse Hasan",
-  "profession": "Title",
+  "profession": "Master student in Marketing",
   "workplacePreface": "at",
-  "workplace": "Company",
-  "workplaceLink": "https://example.com/",
+  "workplace": "University of Gothenburg",
+  "workplaceLink": "https://www.gu.se/",
   "about": "I am a person who's driven and very passionate in the future of marketing.\nThis website has been edited to showcase the different projects I have worked on over the years.<br>I am always looking for new opportunities to learn and grow as a marketer and as a person.",
   "links": [
     {
@@ -18,6 +18,10 @@
     {
       "name": "LinkedIn",
       "link": "https://www.linkedin.com/in/mussehasan/"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/drakmusse/"
     }
   ]
 }
