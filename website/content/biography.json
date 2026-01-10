@@ -5,23 +5,19 @@
   "workplacePreface": "at",
   "workplace": "Company",
   "workplaceLink": "https://example.com/",
-  "about": "I am a person with strong proficency in the art of software development.\nThis website has been created to track and showcase the different projects I have worked on over the years.<br>I am always looking for new opportunities to learn and grow as a developer.",
+  "about": "I am a person who's driven and very passionate in the future of marketing.\nThis website has been edited to showcase the different projects I have worked on over the years.<br>I am always looking for new opportunities to learn and grow as a marketer and as a person.",
   "links": [
     {
       "name": "Email",
-      "link": "mailto:firstname.lastname@example.com"
+      "link": "mailto:Musse.Hassan321@gmail.com"
     },
     {
       "name": "CV",
       "link": "link/to/cv"
     },
     {
-      "name": "GitHub",
-      "link": "https://github.com/"
-    },
-    {
-      "name": "Creator",
-      "link": "https://zulius.me/"
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/mussehasan/"
     }
   ]
 }
