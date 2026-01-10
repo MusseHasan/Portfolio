@@ -3,14 +3,14 @@
   "defaultPreloadImage": "content/graphic_assets/fetching_video.gif",
   "portfolio": [
     {
-      "title": "Portfolio Template",
+      "title": "MPS Christmas party!",
       "year": "2025",
       "month": "December",
       "video": "",
       "image": "https://www.instagram.com/p/DSN_GEMiJ65/?img_index=3",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
-      "companyName": "Microsoft",
-      "collaborators": "Bill Gates",
+      "companyName": "MPS",
+      "collaborators": "",
       "descriptiveTitle": "Desktop preview",
       "reason": "Highlight your projects interactively with detailed descriptions, collaborators and links. Ultra clean design to let visitors focus on your projects. Expandable \"About\" section to view your portrait and biography.",
       "sourceName": "Microsoft is a tech company",
