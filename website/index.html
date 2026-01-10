@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- CHANGE TAB ICON BELOW -->
+  <link rel="icon" href="favicon.svg">
+  <!-- Meta tags and links -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <link href="content/biography.json" as="fetch" type="application/json" crossorigin="anonymous">
+  <link href="content/portfolio.json" as="fetch" type="application/json" crossorigin="anonymous">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <div class="main">
+    <!-- Biography -->
+    <div class="main__column" id="biography">
+      <div class="biography" id="biography__template">
+        <div class="biography__picture">
+          <img src="content/photos/portrait_template.png" alt="Portrait Photo" height="256">
+        </div>
+        <div class="biography__introduction introduction">
+          <span class="introduction__name">Zulius Roolf</span>,
+          <br>
+          <span class="introduction__profession">template creator</span>
+          <span id="if__introduction__workplace">
+            <span class="introduction__workplace__preface">at</span>
+            <a class="introduction__workplace" href="https://github.com/ZuliusRoolf/portfolio-template" target="_blank">GitHub</a>
+          </span>
+        </div>
+        <div class="biography__social">
+          <a class="biography__social__link" href="#about" id="if__biography__about" target="_blank">About</a>
+          <a class="biography__social__link" href="https://github.com/ZuliusRoolf" target="_blank">GitHub</a>
+        </div>
+        <div class="biography__about">
+          Hello! <br> Seems like JavaScript was unable to load the content of this website. <br>
+          The information is stored in JSON files located <a href="content/" target="_blank">here</a> for the JavaScript to load. <br>
+          You can either refresh to try again or click <a href="https://github.com/ZuliusRoolf/portfolio-template" target="_blank">here</a> to see
+          the source code.
+        </div>
+      </div>
+      <div class="project__container hide" id="deselect__project__container">
+        <!--  -->
+      </div>
+      <div class="project__container" id="select__project__container">
+        <img src="content/graphic_assets/back_button.svg" loading="lazy" alt="Close button" id="close__project__button" height="48">
+      </div>
+      <div class="project__container" id="hover__project__container">
+        <!--  -->
+      </div>
+    </div>
+
+    <!-- Portfolio -->
+    <div class="main__column" id="portfolio">
+      <div class="portfolio" id="portfolio__container">
+        <div id="projects" style="display: none;">
+          <div class="portfolio__project" id="project0">
+            <div class="project__content__hover">
+              <div class="project__video">
+                <video class="video" autoplay="autoplay" preload="none" loop="loop" muted="muted" playsinline="playsinline" poster="content/graphic_assets/fetching_video.gif">
+                  <source src="" type="video/mp4">
+                  Your browser does not support the video tag.
+                </video>
+              </div>
+              <div class="project__contribution">
+                <img class="project__contribution__company__logo" src="content/icons/github.svg" height="16">
+                <span class="project__contribution__company">GitHub</span>
+                <div id="if__project__contribution__collaborators">
+                  <span class="project__contribution__collaborators__seperator">·</span><span>with</span>
+                  <span class="project__contribution__collaborators">Zulius' Template</span>
+                </div>
+              </div>
+            </div>
+            <div class="project__content__selected">
+              <div class="project__description__title" style="font-weight: bold;">Portfolio Template</div>
+              <div class="project__description__text">
+                Created by <a href="https://www.zulius.me/" style="font-weight: 700;" target="_blank">Zulius Roolf</a>, this is a template for a portfolio website.
+                The design is inspired by the works of <a href="https://www.seyityilmaz.com/" style="font-weight: 700;" target="_blank">Seyit Yilmaz</a> for their simplistic and clean UX.
+                The template uses JSON files, which makes it simple to maintain and easy to update.
+              </div>
+              <div class="project__redirect__container">
+                <a class="project__redirect" href="https://github.com/ZuliusRoolf/portfolio-template" target="_blank" data="View Template on GitHub"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="project__button" data-template-id="project0" id="project__button__template">
+          <div class="project__button__title">Portfolio Website</div>
+          <div class="project__button__year">2024</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="gradientbackground">
+    <style>
+        body {
+            background-color: hsla(180,1%,97%,1);
+            background-image: 
+            radial-gradient(at 81% 65%, hsla(218,98%,94%,1) 0px, transparent 50%), 
+            radial-gradient(at 27% 75%, hsla(39,80%,94%,1) 0px, transparent 50%), 
+            radial-gradient(at 90% 99%, hsla(291,77%,94%,1) 0px, transparent 50%), 
+            radial-gradient(at 75% 26%, hsla(197,87%,94%,1) 0px, transparent 50%);
+            background-size: 500% 500%;
+            animation: gradient 9s ease infinite;
+            height: 100vh;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+    </style>
+</div>
+  <script type="module" src="script.js"></script>
+</body>
+</html>

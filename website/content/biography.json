@@ -1,0 +1,27 @@
+{
+  "portrait": "content/photos/portrait_template.png",
+  "name": "Your Name",
+  "profession": "Title",
+  "workplacePreface": "at",
+  "workplace": "Company",
+  "workplaceLink": "https://example.com/",
+  "about": "I am a person with strong proficency in the art of software development.\nThis website has been created to track and showcase the different projects I have worked on over the years.<br>I am always looking for new opportunities to learn and grow as a developer.",
+  "links": [
+    {
+      "name": "Email",
+      "link": "mailto:firstname.lastname@example.com"
+    },
+    {
+      "name": "CV",
+      "link": "link/to/cv"
+    },
+    {
+      "name": "GitHub",
+      "link": "https://github.com/"
+    },
+    {
+      "name": "Creator",
+      "link": "https://zulius.me/"
+    }
+  ]
+}
