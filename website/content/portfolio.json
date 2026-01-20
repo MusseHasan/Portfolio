@@ -3,6 +3,20 @@
   "defaultPreloadImage": "content/graphic_assets/fetching_video.gif",
   "portfolio": [
     {
+      "title": "Outstanding bachelor’s Thesis 2023/2024",
+      "year": "2023-2024",
+      "month": "Jun",
+      "video": "",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQEdYj9d4Hi2bQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717508770221?e=1770249600&v=beta&t=R45N6tv8QfBDp5xqaBZIXtz71nUYIe-qefqo3baZ7lg",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
+      "companyName": "Linneaus University",
+      "collaborators": "Amanda Funkquist & Rasmus Lennkvist",
+      "descriptiveTitle": "An Award for Outstanding Thesis",
+      "reason": "At the end of the thesis work, my group and I were nominated for and won the Outstanding Bachelor Thesis Award for our significant perspective on the visually impaired and our theoretical and managerial contributions.",
+      "sourceName": "Preview Linkdin post about it",
+      "sourceLink": "https://www.linkedin.com/posts/mussehasan_last-friday-i-finally-achieved-what-i-set-activity-7203753912502333440-X7bm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC35eFYBFVsPzFGc2-jXgopDGW5585j8UeM"
+    },
+    {
       "title": "Bachelor Thesis",
       "year": "2024",
       "month": "March-Jun",
@@ -10,7 +24,7 @@
       "image": "content/photos/FULLTEXT01-01.png",
       "companyLogo": "",
       "companyName": "",
-      "collaborators": "Amanda Funqkvist & Rasmus Lenqvist",
+      "collaborators": "Amanda Funkquist & Rasmus Lennkvist",
       "descriptiveTitle": "Visual impaired people and their experience in Supermarkets",
       "reason": "After making the group. Our group wanted to write something about both customer experience like our porgam is named, but also somehting outside the box. What we came up with and wrote about was about Visually impaired people. And their speicif relations to the mundane/continous supermarkets.",
       "sourceName": "Preview the thesis",
@@ -31,7 +45,7 @@
       "sourceLink": "http://apple.com"
     },
     {
-      "title": "Outstanding bachelor’s Thesis 2023/2024",
+      "title": "Mentor for university program",
       "year": "2024",
       "month": "Jun",
       "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
@@ -43,20 +57,6 @@
       "reason": "Blender Foundation initiated this open movie project. A small team (7) of the best 3D artists and developers in the Blender community have been invited to come together to work in Amsterdam from October 2007 until April 2008 on completing a short 3D animation movie. ",
       "sourceName": "More info at bigbuckbunny.org",
       "sourceLink": "http://www.bigbuckbunny.org"
-    },
-    {
-      "title": "Mentor for university program",
-      "year": "2023",
-      "month": "Aug",
-      "video": "",
-      "image": "",
-      "companyLogo": "",
-      "companyName": "Kalmar ESS",
-      "collaborators": "",
-      "descriptiveTitle": "Preview of a video failing to load",
-      "reason": "Sometimes the video is not available or the link is broken. The website has no timeout and will simply wait for the video to load indefinitely.",
-      "sourceName": "GitHub",
-      "sourceLink": "http://github.com"
     },
     {
       "title": "Podcast host and editor",
