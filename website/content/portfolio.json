@@ -3,8 +3,8 @@
   "defaultPreloadImage": "content/graphic_assets/fetching_video.gif",
   "portfolio": [
     {
-      "title": "Outstanding bachelor’s Thesis 2023/2024",
-      "year": "2023-2024",
+      "title": "Outstanding bachelor’s Thesis",
+      "year": "2024",
       "month": "Jun",
       "video": "",
       "image": "https://media.licdn.com/dms/image/v2/D4D22AQFfV5O3YKg-eQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717508766095?e=1770249600&v=beta&t=g_wKr2GdYjHvto2xEJENApVRSoaP4lb9F1vOrfH14a4",
@@ -27,25 +27,25 @@
       "collaborators": "Amanda Funkquist & Rasmus Lennkvist",
       "descriptiveTitle": "Visual impaired people and their experience in Supermarkets",
       "reason": "After making the group. Our group wanted to write something about both customer experience like our porgam is named, but also somehting outside the box. What we came up with and wrote about was about Visually impaired people. And their speicif relations to the mundane/continous supermarkets.",
-      "sourceName": "Preview the thesis",
+      "sourceName": "View the thesis",
       "sourceLink": "https://www.diva-portal.org/smash/get/diva2:1865333/FULLTEXT01.pdf"
     },
     {
-      "title": "Social media-ambassador",
+      "title": "Student dormitory",
       "year": "2024",
-      "month": "Feb",
-      "video": "content/videos/Yasmin.mp4",
+      "month": "April",
+      "video": "content/videos/Ella.mp4",
       "image": "",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
       "companyName": "Linneau University",
       "collaborators": "Therése Klippinge",
       "descriptiveTitle": "Social media projects",
       "reason": "I got the most unique experience of being a social media ambassador at Lnu. I got to post ideas, collab with students. Present, showcase and lift up student, programs and the general student lifestule. Link to the full project for authenticity.",
-      "sourceName": "See design inspiration at Apple",
-      "sourceLink": "http://apple.com"
+      "sourceName": "See more about the post at Instagram",
+      "sourceLink": "hhttps://www.instagram.com/p/C6LX-WerBq2/"
     },
     {
-      "title": "Social media-ambassador",
+      "title": "Student unions at Lnu",
       "year": "2024",
       "month": "Feb",
       "video": "content/videos/Mashup.mp4",
@@ -55,41 +55,27 @@
       "collaborators": "Therése Klippinge",
       "descriptiveTitle": "Social media projects",
       "reason": "I got the most unique experience of being a social media ambassador at Lnu. I got to post ideas, collab with students. Present, showcase and lift up student, programs and the general student lifestule. Link to the full project for authenticity.",
-      "sourceName": "See design inspiration at Apple",
-      "sourceLink": "http://apple.com"
+      "sourceName": "See more about the post at Instagram",
+      "sourceLink": "https://www.instagram.com/p/C2zcDchrojC/"
     },
     {
-      "title": "Social media-ambassador",
+      "title": "Marine engineering with Yasmin",
       "year": "2024",
       "month": "Feb",
-      "video": "content/videos/Halowee.mp4",
+      "video": "content/videos/Yasmin.mp4",
       "image": "",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
       "companyName": "Linneau University",
       "collaborators": "Therése Klippinge",
       "descriptiveTitle": "Social media projects",
       "reason": "I got the most unique experience of being a social media ambassador at Lnu. I got to post ideas, collab with students. Present, showcase and lift up student, programs and the general student lifestule. Link to the full project for authenticity.",
-      "sourceName": "See design inspiration at Apple",
-      "sourceLink": "http://apple.com"
+      "sourceName": "See more about the post at Instagram",
+      "sourceLink": "https://www.instagram.com/p/C3Zp-WtNnf7/"
     },
     {
-      "title": "Social media-ambassador",
-      "year": "2024",
-      "month": "Feb",
-      "video": "content/videos/Ella.mp4",
-      "image": "",
-      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
-      "companyName": "Linneau University",
-      "collaborators": "Therése Klippinge",
-      "descriptiveTitle": "Social media projects",
-      "reason": "I got the most unique experience of being a social media ambassador at Lnu. I got to post ideas, collab with students. Present, showcase and lift up student, programs and the general student lifestule. Link to the full project for authenticity.",
-      "sourceName": "See design inspiration at Apple",
-      "sourceLink": "http://apple.com"
-    },
-    {
-      "title": "Social media-ambassador",
-      "year": "2024",
-      "month": "Feb",
+      "title": "Advent calendar of student tips",
+      "year": "2023",
+      "month": "Dec",
       "video": "content/videos/Christmas.mp4",
       "image": "",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
@@ -97,8 +83,22 @@
       "collaborators": "Therése Klippinge",
       "descriptiveTitle": "Social media projects",
       "reason": "I got the most unique experience of being a social media ambassador at Lnu. I got to post ideas, collab with students. Present, showcase and lift up student, programs and the general student lifestule. Link to the full project for authenticity.",
-      "sourceName": "See design inspiration at Apple",
-      "sourceLink": "http://apple.com"
+      "sourceName": "See more about the post at Instagram",
+      "sourceLink": "https://www.instagram.com/reel/C0_dNxmiRaN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    },
+     {
+      "title": "Halloweeneve 2023 collage",
+      "year": "2023",
+      "month": "Nobvember",
+      "video": "content/videos/Halowee.mp4",
+      "image": "",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
+      "companyName": "Linneau University",
+      "collaborators": "Therése Klippinge",
+      "descriptiveTitle": "Social media ambassador project",
+      "reason": "I got the most unique experience of being a social media ambassador at Lnu. I got to post ideas, collab with students. Present, showcase and lift up student, programs and the general student lifestule. Link to the full project for authenticity.",
+      "sourceName": "See more about the post at Instagram",
+      "sourceLink": "https://www.instagram.com/p/CzdURVHsN85/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
     },
     {
       "title": "Podcast host and editor",
