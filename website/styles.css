@@ -452,7 +452,7 @@ a:hover {
 
 .project__button.selected {
     background: rgba(255, 255, 255, 0.8);
-    box-shadow: rgba(70, 195, 76, 0.2) 4px -2px 16px 2px, rgba(71, 159, 120, 0.2) -4px 4px 16px 2px;
+    box-shadow: var(--rgba-project-button-shadow-light) 4px -2px 16px 2px, var(--rgba-project-button-shadow-dark) -4px 4px 16px 2px;
     transition: 200ms;
 }
 
