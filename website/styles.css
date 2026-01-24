@@ -1,12 +1,12 @@
 :root {
-    --rgb-flare-light: rgb(70, 195, 76);
-    --rgb-flare-dark: rgb(71, 159, 120);
-    --rgba-project-button-shadow-light: rgba(70, 195, 76, 0.2);
-    --rgba-project-button-shadow-dark: rgba(71, 159, 120, 0.2);
+    --rgb-flare-light: rgb(180, 70, 195);
+    --rgb-flare-dark: rgb(124, 71, 159);
+    --rgba-project-button-shadow-light: rgba(180, 70, 195, 0.2);
+    --rgba-project-button-shadow-dark: rgba(124, 71, 159, 0.2);
 }
 
 .gradientbackground {
-    background-color: hsla(180, 1%, 97%, 1);
+    background-color: rgba(236, 217, 189, 0.911);
     background-image:
         radial-gradient(at 81% 65%, hsla(218, 98%, 94%, 1) 0px, transparent 50%),
         radial-gradient(at 27% 75%, hsla(39, 80%, 94%, 1) 0px, transparent 50%),
