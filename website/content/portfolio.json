@@ -45,20 +45,6 @@
       "sourceLink": "http://apple.com"
     },
     {
-      "title": "Mentor for university program",
-      "year": "2024",
-      "month": "Jun",
-      "video": "",
-      "image": "https://photos.fife.usercontent.google.com/pw/AP1GczMe3F8_3c90og5MuunpilGUkHIagOq6sETP7HR5mszKu5T2ber5S6T-JQ=w882-h662-s-no-gm?authuser=2",
-      "companyLogo": "content/photos/KalmarESS.jpg",
-      "companyName": "Kalmar ESS",
-      "collaborators": "",
-      "descriptiveTitle": "Peach open movie project",
-      "reason": "Blender Foundation initiated this open movie project. A small team (7) of the best 3D artists and developers in the Blender community have been invited to come together to work in Amsterdam from October 2007 until April 2008 on completing a short 3D animation movie. ",
-      "sourceName": "More info at bigbuckbunny.org",
-      "sourceLink": "http://www.bigbuckbunny.org"
-    },
-    {
       "title": "Podcast host and editor",
       "year": "2023",
       "month": "Sep",
@@ -71,6 +57,20 @@
       "reason": "When I did a course in project marketting I was challenged by the professor to show my group work through other means besides traditional presentation. What I came up with was to show the group work through a podcast. With music, an ad and asking questions to my group mates. It was my first step into the editing space. Music, script writing and also play the role as host.",
       "sourceName": "View project in Google drive",
       "sourceLink": "https://example.com/"
+    },
+    {
+      "title": "Mentor for university program",
+      "year": "2023",
+      "month": "Aug",
+      "video": "",
+      "image": "content/photos/King.jpg",
+      "companyLogo": "content/photos/KalmarESS.jpg",
+      "companyName": "Kalmar ESS",
+      "collaborators": "",
+      "descriptiveTitle": "Peach open movie project",
+      "reason": "Blender Foundation initiated this open movie project. A small team (7) of the best 3D artists and developers in the Blender community have been invited to come together to work in Amsterdam from October 2007 until April 2008 on completing a short 3D animation movie. ",
+      "sourceName": "More info at bigbuckbunny.org",
+      "sourceLink": "http://www.bigbuckbunny.org"
     },
     {
       "title": "Student Ambassador",
