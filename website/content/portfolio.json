@@ -3,6 +3,20 @@
   "defaultPreloadImage": "content/graphic_assets/fetching_video.gif",
   "portfolio": [
     {
+      "title": "This Website",
+      "year": "2026",
+      "month": "Jan",
+      "video": "",
+      "image": "content/photos/Template.JPG",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1280px-GitHub_Invertocat_Logo.svg.png",
+      "companyName": "",
+      "collaborators": "Zulius Roolf",
+      "descriptiveTitle": "The Portfolio",
+      "reason": "The website portfolio itself. It involved light web development, programming, and some recording and editing. A great deal of credit goes to my friend Zulius Roolf for the template and the help.",
+      "sourceName": "View the Github template",
+      "sourceLink": "https://github.com/ZuliusRoolf/portfolio-template"
+    },
+    {
       "title": "Outstanding bachelor’s Thesis",
       "year": "2024",
       "month": "Jun",
@@ -10,7 +24,7 @@
       "image": "https://media.licdn.com/dms/image/v2/D4D22AQFfV5O3YKg-eQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1717508766095?e=1770249600&v=beta&t=g_wKr2GdYjHvto2xEJENApVRSoaP4lb9F1vOrfH14a4",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
       "companyName": "Linneaus University",
-      "collaborators": "Amanda Funkquist & Rasmus Lennkvist",
+      "collaborators": "Amanda F & Rasmus L",
       "descriptiveTitle": "An Award for Outstanding Thesis",
       "reason": "At the end of the thesis work, my group and I were nominated for and won the Outstanding Bachelor Thesis Award for our significant perspective on the visually impaired and our theoretical and managerial contributions.",
       "sourceName": "Preview Linkdin post about it",
@@ -24,7 +38,7 @@
       "image": "content/photos/FULLTEXT01-01.png",
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Linneuniversitetet_logo.png",
       "companyName": "",
-      "collaborators": "Amanda Funkquist & Rasmus Lennkvist",
+      "collaborators": "Amanda F & Rasmus L",
       "descriptiveTitle": "Visual impaired people and their experience in Supermarkets",
       "reason": "After making the group. Our group wanted to write something about both customer experience like our porgam is named, but also somehting outside the box. What we came up with and wrote about was about Visually impaired people. And their speicif relations to the mundane/continous supermarkets.",
       "sourceName": "View the thesis",
@@ -123,7 +137,7 @@
       "companyLogo": "content/photos/KalmarESS.jpg",
       "companyName": "Kalmar ESS",
       "collaborators": "",
-      "descriptiveTitle": "Peach open movie project",
+      "descriptiveTitle": "Introduction deputy",
       "reason": "Blender Foundation initiated this open movie project. A small team (7) of the best 3D artists and developers in the Blender community have been invited to come together to work in Amsterdam from October 2007 until April 2008 on completing a short 3D animation movie. ",
       "sourceName": "More info at bigbuckbunny.org",
       "sourceLink": ""
@@ -137,8 +151,8 @@
       "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vision_logo.png",
       "companyName": "Vision",
       "collaborators": "",
-      "descriptiveTitle": "Reach out to student",
-      "reason": "This project was created to solve a problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "descriptiveTitle": "Reach out to students",
+      "reason": "I held multiple information tables and presentations as an ambassador. I coordinated and collaborated with the university, its faculties, and my team to ensure resources were ready to support student knowledge of union-related topics and enhance the student experience. This role was rich in administrative responsibilities, including logistics, documentation, and maintaining open engagement with students.",
       "sourceName": "View more about the Vision",
       "sourceLink": "https://vision.se/"
     },
@@ -151,13 +165,13 @@
       "companyLogo": "content/photos/KalmarESS.jpg",
       "companyName": "Kalmar ESS",
       "collaborators": "",
-      "descriptiveTitle": "A project that does something",
-      "reason": "This project was created to solve a problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "descriptiveTitle": "Kalmar ESS Halloweensittning 2021",
+      "reason": "My debut into university life. I received the opportunity to project lead and be the spokesperson for the annual Halloween dinner for the whole economy faculty. From planning the whole event to coordinating with the team and serving as the public representative.",
       "sourceName": "View pictures about the project here",
       "sourceLink": "https://www.facebook.com/KalmarESS/posts/pfbid02x7WwrSKgkc36xbHngzCv8mwFXLgfvMLSj8waJPkAVrx6u1vN75rCVgJpfx7R413Yl"
     },
       {
-      "title": "Student President",
+      "title": "School President",
       "year": "2019-2020",
       "month": "Mar-Feb",
       "video": "",
@@ -165,10 +179,10 @@
       "companyLogo": "content/icons/KreativeKåren.jpg",
       "companyName": "Kreative Kåren",
       "collaborators": "2019-2020 board",
-      "descriptiveTitle": "The School president for all the functions of creative corps",
-      "reason": "This was my first step in to the leadership, administrative, but also managerial position.",
-      "sourceName": "View events and other projects in Instagram",
-      "sourceLink": "https://www.instagram.com/p/B1amWETnEeM/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="
+      "descriptiveTitle": "High School President for Creative Corp",
+      "reason": "This was my first entry point into leadership. I was nominated and selected by the previous board for my contribution, sense of responsibility and kindness to others. This role allowed me to develop both administrative and managerial skills.",
+      "sourceName": "View Creative Corp Instagram",
+      "sourceLink": "https://www.instagram.com/kreativakaren/"
     }
   ]
 }
